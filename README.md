@@ -1,3 +1,5 @@
+[설명](https://blog.naver.com/pjt3591oo/222314071657)
+
 ```
 기본 생성자(Default constructor)
 이름 있는 생성자(Named constructor)
