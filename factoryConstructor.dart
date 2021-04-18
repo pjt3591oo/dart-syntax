@@ -12,17 +12,15 @@ class Person {
     }
   }
 
-  String getType() {
-    return 'Person';
-  }
+  String whoAreYou(){}
 }
 
 class Student extends Person{
   Student(): super.init();
 
   @override
-  getType() {
-    return 'student';
+  whoAreYou() {
+    return "I'm student";
   }
 }
 
@@ -30,8 +28,8 @@ class Employee extends Person{
   Employee(): super.init();
 
   @override
-  getType() {
-    return 'employee';
+  whoAreYou() {
+    return "I'm employee";
   }
 }
 
@@ -40,7 +38,7 @@ void main() {
   Person employee = Person('Employee');
   // Person person = Person('person');
 
-  print(student.getType());
-  print(employee.getType());
-  // print(person.getType());
+  print(student.whoAreYou());
+  print(employee.whoAreYou());
+  // print(person.whoAreYou());
 }
