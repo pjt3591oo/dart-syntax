@@ -1,6 +1,6 @@
 # 데이터 타입(Data Type)
 
-* 명시적 (Explicit)
+* [명시적 (Explicit)](https://github.com/pjt3591oo/dart-syntax/tree/master/data_type/explicit)
 
 ```
 명시적타입(Explicit Type) - int, double, num
@@ -11,7 +11,7 @@
 타입추론 - var
 ```
 
-* 자료구조 (data_structure)
+* [자료구조 (data_structure)](https://github.com/pjt3591oo/dart-syntax/tree/master/data_type/data_structure)
 
 ```
 리스트(List)
@@ -19,7 +19,7 @@
 이터러블(Iterable)
 ```
 
-* 기타 (etcs)
+* [기타 (etcs)](https://github.com/pjt3591oo/dart-syntax/tree/master/data_type/etcs)
 
 ```
 Datatime
