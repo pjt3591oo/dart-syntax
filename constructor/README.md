@@ -1,4 +1,5 @@
-# 생성자(constructor) 및 초기화(initialize)
+# 생성자(Constructor) 및 초기화(Initialize)
+
 [설명](https://blog.naver.com/pjt3591oo/222314071657)
 
 ```
