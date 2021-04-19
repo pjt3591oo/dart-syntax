@@ -1,6 +1,6 @@
 # 생성자(Constructor) 및 초기화(Initialize)
 
-[설명](https://blog.naver.com/pjt3591oo/222314071657)
+[블로그 설명 바로가기](https://blog.naver.com/pjt3591oo/222314071657)
 
 ```
 기본 생성자(Default constructor)

@@ -1,5 +1,7 @@
 # 데이터 타입(Data Type)
 
+[블로그 설명 바로가기](https://blog.naver.com/pjt3591oo/222309654609)
+
 * [명시적 (Explicit)](https://github.com/pjt3591oo/dart-syntax/tree/master/data_type/explicit)
 
 ```

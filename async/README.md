@@ -1,6 +1,6 @@
 # 비동기(async)
 
-[설명](https://blog.naver.com/pjt3591oo/222314109684)
+[블로그 설명 바로가기](https://blog.naver.com/pjt3591oo/222314109684)
 
 ```
 Future 체이닝 기법
